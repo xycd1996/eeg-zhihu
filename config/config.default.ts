@@ -18,11 +18,11 @@ export default (appInfo: EggAppInfo) => {
 
   config.sequelize = {
     dialect: 'mysql',
-    host: '47.99.209.230',
+    host: 'localhost',
     port: 3306,
     database: 'zhi_hu',
     username: 'root',
-    password: 'Xuyuchen-1996',
+    password: 'test',
     define: {
       paranoid: true,
       timestamps: true,
