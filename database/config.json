@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Xuyuchen-1996",
+    "database": "zhi_hu",
+    "host": "47.99.209.230",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
